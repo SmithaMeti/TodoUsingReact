@@ -1,4 +1,4 @@
-<img width="1712" height="965" alt="image" src="https://github.com/user-attachments/assets/4e59d8e3-c641-474e-9e6d-38d81d8ded74" /># ✨ My Todo List (React)
+# ✨ My Todo List (React)
 
 A simple, elegant, and fully functional **Todo List App** built using **React.js**.  
 This app helps you stay organized and productive by keeping track of your tasks — add, complete, and delete tasks easily, with data stored in **localStorage**.
