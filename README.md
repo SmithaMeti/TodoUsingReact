@@ -17,12 +17,6 @@ This app helps you stay organized and productive by keeping track of your tasks 
 
 ---
 
-<img width="1712" height="965" alt="Screenshot 2025-10-21 232832" src="https://github.com/user-attachments/assets/41237cb5-41b2-4c77-9431-17004bb0eeeb" />
-
-
-
-
-<img width="1105" height="944" alt="Screenshot 2025-10-21 232947" src="https://github.com/user-attachments/assets/a43c8359-a069-49ea-bb79-33c83f4265cb" />
 
 
 
@@ -38,3 +32,10 @@ This app helps you stay organized and productive by keeping track of your tasks 
 
 ## 🏗️ Project Structure
 
+
+<img width="1712" height="965" alt="Screenshot 2025-10-21 232832" src="https://github.com/user-attachments/assets/41237cb5-41b2-4c77-9431-17004bb0eeeb" />
+
+
+
+
+<img width="1105" height="944" alt="Screenshot 2025-10-21 232947" src="https://github.com/user-attachments/assets/a43c8359-a069-49ea-bb79-33c83f4265cb" />
